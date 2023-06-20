@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f973448a-3c51-46ad-942f-9211acace15a": {
+      "ProjectGuid": "f973448a-3c51-46ad-942f-9211acace15a",
+      "DisplayName": "Hotel",
+      "ColorIndex": 0
+    },
+    "2258114e-cce5-4d89-bfbd-e51cc97af5ad": {
+      "ProjectGuid": "2258114e-cce5-4d89-bfbd-e51cc97af5ad",
+      "DisplayName": "Registration",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
